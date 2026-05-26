@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../assets/minefy-org-banner.svg" alt="Minefy - mine production planning software for modern mining teams" width="100%">
-</p>
-
 <div align="center">
 
 # Minefy
